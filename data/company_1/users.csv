@@ -1,0 +1,3 @@
+user_id,email,role,access_scope
+company_1_admin,admin.company_1@example.com,admin,energy+financial
+company_1_operator,operator.company_1@example.com,operator,energy

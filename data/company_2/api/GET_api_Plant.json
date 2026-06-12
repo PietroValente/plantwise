@@ -1,0 +1,48 @@
+[
+  {
+    "_alertIcon": "NotSpecified",
+    "ElementCount": 3,
+    "Id": 2001,
+    "Name": "Plant C2-001",
+    "DatasourcesCount": 5,
+    "AlarmColor": 0,
+    "UniqueID": "cf1b160d-26a8-5541-84d0-24085a70a277",
+    "Parameters": [
+      {
+        "Key": "Nominal Power",
+        "Value": "1450.0"
+      },
+      {
+        "Key": "Region",
+        "Value": "West"
+      },
+      {
+        "Key": "Commissioning Date",
+        "Value": "2019-06-20"
+      }
+    ]
+  },
+  {
+    "_alertIcon": "NotSpecified",
+    "ElementCount": 3,
+    "Id": 2002,
+    "Name": "Plant C2-002",
+    "DatasourcesCount": 5,
+    "AlarmColor": 0,
+    "UniqueID": "43453a3a-a1f0-5c51-a166-5ad56e813374",
+    "Parameters": [
+      {
+        "Key": "Nominal Power",
+        "Value": "980.0"
+      },
+      {
+        "Key": "Region",
+        "Value": "East"
+      },
+      {
+        "Key": "Commissioning Date",
+        "Value": "2022-01-10"
+      }
+    ]
+  }
+]

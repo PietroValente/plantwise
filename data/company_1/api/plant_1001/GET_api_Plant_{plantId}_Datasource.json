@@ -1,0 +1,32 @@
+[
+  {
+    "ElementId": 10011,
+    "DataSourceId": 100101,
+    "DataSourceName": "Total meter energy",
+    "Units": "kWh"
+  },
+  {
+    "ElementId": 10011,
+    "DataSourceId": 100102,
+    "DataSourceName": "Power",
+    "Units": "kW"
+  },
+  {
+    "ElementId": 10012,
+    "DataSourceId": 100103,
+    "DataSourceName": "Average irradiance",
+    "Units": "W/m2"
+  },
+  {
+    "ElementId": 10012,
+    "DataSourceId": 100104,
+    "DataSourceName": "Average insolation",
+    "Units": "kWh/m2"
+  },
+  {
+    "ElementId": 10012,
+    "DataSourceId": 100105,
+    "DataSourceName": "Module temperature",
+    "Units": "C"
+  }
+]

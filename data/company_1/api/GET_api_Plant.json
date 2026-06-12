@@ -1,0 +1,48 @@
+[
+  {
+    "_alertIcon": "NotSpecified",
+    "ElementCount": 3,
+    "Id": 1001,
+    "Name": "Plant C1-001",
+    "DatasourcesCount": 5,
+    "AlarmColor": 0,
+    "UniqueID": "0a4dfd25-5bc7-5405-b347-14cb30c6394c",
+    "Parameters": [
+      {
+        "Key": "Nominal Power",
+        "Value": "1200.0"
+      },
+      {
+        "Key": "Region",
+        "Value": "North"
+      },
+      {
+        "Key": "Commissioning Date",
+        "Value": "2021-03-01"
+      }
+    ]
+  },
+  {
+    "_alertIcon": "NotSpecified",
+    "ElementCount": 3,
+    "Id": 1002,
+    "Name": "Plant C1-002",
+    "DatasourcesCount": 5,
+    "AlarmColor": 0,
+    "UniqueID": "64036963-4055-5512-abca-cadb5882ff78",
+    "Parameters": [
+      {
+        "Key": "Nominal Power",
+        "Value": "850.0"
+      },
+      {
+        "Key": "Region",
+        "Value": "South"
+      },
+      {
+        "Key": "Commissioning Date",
+        "Value": "2020-09-15"
+      }
+    ]
+  }
+]

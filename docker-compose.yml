@@ -1,0 +1,54 @@
+# Plantwise — three containers per Decision 11.
+# `docker compose up` works the same locally and on Railway.
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in .env (see .env.example)}
+      POSTGRES_DB: plantwise
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5544:5432"   # exposed for local psql inspection; not needed in prod
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d plantwise"]
+      interval: 2s
+      timeout: 3s
+      retries: 20
+
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      # Secrets are required from .env — no inline fallback. compose up fails
+      # with a clear message if any is missing (see .env.example).
+      DATABASE_URL: postgresql://plantwise_app:${APP_DB_PASSWORD:?set APP_DB_PASSWORD in .env}@db:5432/plantwise
+      DATABASE_ADMIN_URL: postgresql://postgres:${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in .env}@db:5432/plantwise
+      APP_DB_PASSWORD: ${APP_DB_PASSWORD:?set APP_DB_PASSWORD in .env}
+      SANDBOX_SECRET: ${SANDBOX_SECRET:?set SANDBOX_SECRET in .env}
+      SANDBOX_DB_HOST: db
+      SANDBOX_DB_PORT: "5432"
+      DATA_DIR: /srv/data
+      MIGRATIONS_DIR: /srv/db/migrations
+      DOCUMENTS_DIR: /srv/generated_documents
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      AGENT_MODEL: ${AGENT_MODEL:-gpt-5}
+    volumes:
+      - documents:/srv/generated_documents
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build: ./frontend
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"
+
+volumes:
+  pgdata:
+  documents:

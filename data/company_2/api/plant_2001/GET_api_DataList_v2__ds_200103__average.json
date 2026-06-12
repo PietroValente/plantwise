@@ -1,0 +1,7322 @@
+[
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T07:00:00Z",
+    "Value": 220.02
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T08:00:00Z",
+    "Value": 435.64
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T09:00:00Z",
+    "Value": 359.67
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T10:00:00Z",
+    "Value": 469.04
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T11:00:00Z",
+    "Value": 809.49
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T12:00:00Z",
+    "Value": 828.37
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T13:00:00Z",
+    "Value": 468.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T14:00:00Z",
+    "Value": 965.14
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T15:00:00Z",
+    "Value": 737.25
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T16:00:00Z",
+    "Value": 481.2
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T17:00:00Z",
+    "Value": 240.74
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T18:00:00Z",
+    "Value": 186.02
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-01T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T07:00:00Z",
+    "Value": 122.85
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T08:00:00Z",
+    "Value": 305.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T09:00:00Z",
+    "Value": 627.34
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T10:00:00Z",
+    "Value": 756.43
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T11:00:00Z",
+    "Value": 738.07
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T12:00:00Z",
+    "Value": 513.03
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T13:00:00Z",
+    "Value": 828.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T14:00:00Z",
+    "Value": 352.87
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T15:00:00Z",
+    "Value": 534.38
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T16:00:00Z",
+    "Value": 366.48
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T17:00:00Z",
+    "Value": 365.34
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T18:00:00Z",
+    "Value": 212.17
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-02T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T07:00:00Z",
+    "Value": 211.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T08:00:00Z",
+    "Value": 322.6
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T09:00:00Z",
+    "Value": 377.1
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T10:00:00Z",
+    "Value": 479.05
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T11:00:00Z",
+    "Value": 641.39
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T12:00:00Z",
+    "Value": 606.63
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T13:00:00Z",
+    "Value": 628.48
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T14:00:00Z",
+    "Value": 447.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T15:00:00Z",
+    "Value": 565.43
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T16:00:00Z",
+    "Value": 324.43
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T17:00:00Z",
+    "Value": 326.33
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T18:00:00Z",
+    "Value": 181.69
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-03T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T07:00:00Z",
+    "Value": 163.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T08:00:00Z",
+    "Value": 407.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T09:00:00Z",
+    "Value": 587.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T10:00:00Z",
+    "Value": 673.63
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T11:00:00Z",
+    "Value": 775.74
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T12:00:00Z",
+    "Value": 1041.78
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T13:00:00Z",
+    "Value": 730.85
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T14:00:00Z",
+    "Value": 447.87
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T15:00:00Z",
+    "Value": 368.44
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T16:00:00Z",
+    "Value": 393.45
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T17:00:00Z",
+    "Value": 269.05
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T18:00:00Z",
+    "Value": 242.51
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-04T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T07:00:00Z",
+    "Value": 205.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T08:00:00Z",
+    "Value": 441.25
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T09:00:00Z",
+    "Value": 398.42
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T10:00:00Z",
+    "Value": 613.7
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T11:00:00Z",
+    "Value": 688.23
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T12:00:00Z",
+    "Value": 585.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T13:00:00Z",
+    "Value": 354.96
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T14:00:00Z",
+    "Value": 574.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T15:00:00Z",
+    "Value": 557.52
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T16:00:00Z",
+    "Value": 523.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T17:00:00Z",
+    "Value": 390.43
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T18:00:00Z",
+    "Value": 165.16
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-05T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T07:00:00Z",
+    "Value": 222.23
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T08:00:00Z",
+    "Value": 129.22
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T09:00:00Z",
+    "Value": 377.88
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T10:00:00Z",
+    "Value": 652.94
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T11:00:00Z",
+    "Value": 603.79
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T12:00:00Z",
+    "Value": 769.59
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T13:00:00Z",
+    "Value": 784.53
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T14:00:00Z",
+    "Value": 510.25
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T15:00:00Z",
+    "Value": 596.34
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T16:00:00Z",
+    "Value": 316.97
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T17:00:00Z",
+    "Value": 344.51
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T18:00:00Z",
+    "Value": 246.36
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-06T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T07:00:00Z",
+    "Value": 282.12
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T08:00:00Z",
+    "Value": 330.98
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T09:00:00Z",
+    "Value": 675.32
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T10:00:00Z",
+    "Value": 622.74
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T11:00:00Z",
+    "Value": 1058.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T12:00:00Z",
+    "Value": 753.19
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T13:00:00Z",
+    "Value": 638.29
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T14:00:00Z",
+    "Value": 820.95
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T15:00:00Z",
+    "Value": 571.93
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T16:00:00Z",
+    "Value": 411.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T17:00:00Z",
+    "Value": 344.6
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T18:00:00Z",
+    "Value": 176.59
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-07T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T07:00:00Z",
+    "Value": 266.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T08:00:00Z",
+    "Value": 362.97
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T09:00:00Z",
+    "Value": 483.67
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T10:00:00Z",
+    "Value": 598.79
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T11:00:00Z",
+    "Value": 428.8
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T12:00:00Z",
+    "Value": 745.52
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T13:00:00Z",
+    "Value": 673.46
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T14:00:00Z",
+    "Value": 691.98
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T15:00:00Z",
+    "Value": 765.66
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T16:00:00Z",
+    "Value": 585.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T17:00:00Z",
+    "Value": 356.22
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T18:00:00Z",
+    "Value": 281.46
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-08T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T07:00:00Z",
+    "Value": 180.7
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T08:00:00Z",
+    "Value": 221.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T09:00:00Z",
+    "Value": 438.78
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T10:00:00Z",
+    "Value": 677.51
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T11:00:00Z",
+    "Value": 751.32
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T12:00:00Z",
+    "Value": 646.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T13:00:00Z",
+    "Value": 569.23
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T14:00:00Z",
+    "Value": 497.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T15:00:00Z",
+    "Value": 521.89
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T16:00:00Z",
+    "Value": 648.68
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T17:00:00Z",
+    "Value": 525.7
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T18:00:00Z",
+    "Value": 180.88
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-09T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T07:00:00Z",
+    "Value": 299.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T08:00:00Z",
+    "Value": 480.41
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T09:00:00Z",
+    "Value": 695.56
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T10:00:00Z",
+    "Value": 623.72
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T11:00:00Z",
+    "Value": 403.51
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T12:00:00Z",
+    "Value": 613.87
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T13:00:00Z",
+    "Value": 677.19
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T14:00:00Z",
+    "Value": 627.47
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T15:00:00Z",
+    "Value": 625.19
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T16:00:00Z",
+    "Value": 446.29
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T17:00:00Z",
+    "Value": 555.53
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T18:00:00Z",
+    "Value": 230.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-10T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T07:00:00Z",
+    "Value": 120.98
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T08:00:00Z",
+    "Value": 333.88
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T09:00:00Z",
+    "Value": 365.15
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T10:00:00Z",
+    "Value": 637.85
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T11:00:00Z",
+    "Value": 1109.09
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T12:00:00Z",
+    "Value": 826.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T13:00:00Z",
+    "Value": 742.23
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T14:00:00Z",
+    "Value": 622.87
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T15:00:00Z",
+    "Value": 945.51
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T16:00:00Z",
+    "Value": 357.43
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T17:00:00Z",
+    "Value": 352.88
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T18:00:00Z",
+    "Value": 221.47
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-11T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T07:00:00Z",
+    "Value": 186.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T08:00:00Z",
+    "Value": 464.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T09:00:00Z",
+    "Value": 546.98
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T10:00:00Z",
+    "Value": 779.07
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T11:00:00Z",
+    "Value": 542.69
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T12:00:00Z",
+    "Value": 903.78
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T13:00:00Z",
+    "Value": 378.24
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T14:00:00Z",
+    "Value": 581.38
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T15:00:00Z",
+    "Value": 687.27
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T16:00:00Z",
+    "Value": 532.13
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T17:00:00Z",
+    "Value": 424.39
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T18:00:00Z",
+    "Value": 218.42
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-12T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T07:00:00Z",
+    "Value": 184.93
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T08:00:00Z",
+    "Value": 381.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T09:00:00Z",
+    "Value": 423.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T10:00:00Z",
+    "Value": 665.53
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T11:00:00Z",
+    "Value": 699.55
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T12:00:00Z",
+    "Value": 557.96
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T13:00:00Z",
+    "Value": 1197.32
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T14:00:00Z",
+    "Value": 676.7
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T15:00:00Z",
+    "Value": 925.43
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T16:00:00Z",
+    "Value": 488.03
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T17:00:00Z",
+    "Value": 333.44
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T18:00:00Z",
+    "Value": 154.12
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-13T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T07:00:00Z",
+    "Value": 127.9
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T08:00:00Z",
+    "Value": 368.52
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T09:00:00Z",
+    "Value": 352.9
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T10:00:00Z",
+    "Value": 816.85
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T11:00:00Z",
+    "Value": 536.84
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T12:00:00Z",
+    "Value": 629.41
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T13:00:00Z",
+    "Value": 648.16
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T14:00:00Z",
+    "Value": 345.78
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T15:00:00Z",
+    "Value": 502.37
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T16:00:00Z",
+    "Value": 621.8
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T17:00:00Z",
+    "Value": 418.34
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T18:00:00Z",
+    "Value": 228.53
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-14T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T07:00:00Z",
+    "Value": 173.04
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T08:00:00Z",
+    "Value": 359.22
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T09:00:00Z",
+    "Value": 472.59
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T10:00:00Z",
+    "Value": 439.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T11:00:00Z",
+    "Value": 516.88
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T12:00:00Z",
+    "Value": 640.25
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T13:00:00Z",
+    "Value": 654.91
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T14:00:00Z",
+    "Value": 747.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T15:00:00Z",
+    "Value": 650.42
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T16:00:00Z",
+    "Value": 368.33
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T17:00:00Z",
+    "Value": 471.95
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T18:00:00Z",
+    "Value": 143.07
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-15T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T07:00:00Z",
+    "Value": 202.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T08:00:00Z",
+    "Value": 433.45
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T09:00:00Z",
+    "Value": 306.79
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T10:00:00Z",
+    "Value": 476.06
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T11:00:00Z",
+    "Value": 845.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T12:00:00Z",
+    "Value": 781.09
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T13:00:00Z",
+    "Value": 465.42
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T14:00:00Z",
+    "Value": 1200.49
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T15:00:00Z",
+    "Value": 528.22
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T16:00:00Z",
+    "Value": 527.06
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T17:00:00Z",
+    "Value": 257.41
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T18:00:00Z",
+    "Value": 115.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-16T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T07:00:00Z",
+    "Value": 209.47
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T08:00:00Z",
+    "Value": 339.42
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T09:00:00Z",
+    "Value": 470.8
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T10:00:00Z",
+    "Value": 609.2
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T11:00:00Z",
+    "Value": 412.61
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T12:00:00Z",
+    "Value": 1200.06
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T13:00:00Z",
+    "Value": 519.71
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T14:00:00Z",
+    "Value": 466.02
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T15:00:00Z",
+    "Value": 548.74
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T16:00:00Z",
+    "Value": 526.49
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T17:00:00Z",
+    "Value": 367.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T18:00:00Z",
+    "Value": 149.15
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-17T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T07:00:00Z",
+    "Value": 184.03
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T08:00:00Z",
+    "Value": 171.75
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T09:00:00Z",
+    "Value": 711.39
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T10:00:00Z",
+    "Value": 436.12
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T11:00:00Z",
+    "Value": 788.14
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T12:00:00Z",
+    "Value": 904.89
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T13:00:00Z",
+    "Value": 652.39
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T14:00:00Z",
+    "Value": 882.49
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T15:00:00Z",
+    "Value": 511.66
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T16:00:00Z",
+    "Value": 537.09
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T17:00:00Z",
+    "Value": 314.8
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T18:00:00Z",
+    "Value": 316.23
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-18T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T07:00:00Z",
+    "Value": 221.17
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T08:00:00Z",
+    "Value": 322.64
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T09:00:00Z",
+    "Value": 380.75
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T10:00:00Z",
+    "Value": 686.67
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T11:00:00Z",
+    "Value": 612.44
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T12:00:00Z",
+    "Value": 896.38
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T13:00:00Z",
+    "Value": 730.74
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T14:00:00Z",
+    "Value": 608.31
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T15:00:00Z",
+    "Value": 794.33
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T16:00:00Z",
+    "Value": 559.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T17:00:00Z",
+    "Value": 366.55
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T18:00:00Z",
+    "Value": 164.81
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-19T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T07:00:00Z",
+    "Value": 175.29
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T08:00:00Z",
+    "Value": 563.25
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T09:00:00Z",
+    "Value": 409.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T10:00:00Z",
+    "Value": 644.89
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T11:00:00Z",
+    "Value": 756.64
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T12:00:00Z",
+    "Value": 1273.53
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T13:00:00Z",
+    "Value": 658.24
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T14:00:00Z",
+    "Value": 486.98
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T15:00:00Z",
+    "Value": 613.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T16:00:00Z",
+    "Value": 664.26
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T17:00:00Z",
+    "Value": 227.89
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T18:00:00Z",
+    "Value": 150.26
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-20T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T07:00:00Z",
+    "Value": 123.12
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T08:00:00Z",
+    "Value": 309.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T09:00:00Z",
+    "Value": 360.18
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T10:00:00Z",
+    "Value": 722.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T11:00:00Z",
+    "Value": 539.77
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T12:00:00Z",
+    "Value": 1327.4
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T13:00:00Z",
+    "Value": 677.53
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T14:00:00Z",
+    "Value": 753.18
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T15:00:00Z",
+    "Value": 650.93
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T16:00:00Z",
+    "Value": 502.47
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T17:00:00Z",
+    "Value": 431.61
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T18:00:00Z",
+    "Value": 151.86
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-21T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T07:00:00Z",
+    "Value": 169.43
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T08:00:00Z",
+    "Value": 498.04
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T09:00:00Z",
+    "Value": 526.74
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T10:00:00Z",
+    "Value": 556.84
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T11:00:00Z",
+    "Value": 185.08
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T12:00:00Z",
+    "Value": 966.63
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T13:00:00Z",
+    "Value": 868.04
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T14:00:00Z",
+    "Value": 721.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T15:00:00Z",
+    "Value": 635.86
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T16:00:00Z",
+    "Value": 627.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T17:00:00Z",
+    "Value": 161.59
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T18:00:00Z",
+    "Value": 143.42
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-22T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T07:00:00Z",
+    "Value": 241.29
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T08:00:00Z",
+    "Value": 438.54
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T09:00:00Z",
+    "Value": 299.81
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T10:00:00Z",
+    "Value": 754.9
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T11:00:00Z",
+    "Value": 529.62
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T12:00:00Z",
+    "Value": 900.15
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T13:00:00Z",
+    "Value": 614.39
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T14:00:00Z",
+    "Value": 856.45
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T15:00:00Z",
+    "Value": 661.45
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T16:00:00Z",
+    "Value": 781.67
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T17:00:00Z",
+    "Value": 343.69
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T18:00:00Z",
+    "Value": 271.04
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-23T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T07:00:00Z",
+    "Value": 229.38
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T08:00:00Z",
+    "Value": 341.26
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T09:00:00Z",
+    "Value": 440.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T10:00:00Z",
+    "Value": 431.09
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T11:00:00Z",
+    "Value": 579.57
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T12:00:00Z",
+    "Value": 651.76
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T13:00:00Z",
+    "Value": 888.77
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T14:00:00Z",
+    "Value": 560.43
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T15:00:00Z",
+    "Value": 624.03
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T16:00:00Z",
+    "Value": 551.66
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T17:00:00Z",
+    "Value": 411.13
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T18:00:00Z",
+    "Value": 247.72
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-24T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T07:00:00Z",
+    "Value": 202.19
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T08:00:00Z",
+    "Value": 326.1
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T09:00:00Z",
+    "Value": 604.8
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T10:00:00Z",
+    "Value": 673.96
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T11:00:00Z",
+    "Value": 638.26
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T12:00:00Z",
+    "Value": 747.18
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T13:00:00Z",
+    "Value": 1010.76
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T14:00:00Z",
+    "Value": 504.24
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T15:00:00Z",
+    "Value": 521.28
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T16:00:00Z",
+    "Value": 475.46
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T17:00:00Z",
+    "Value": 403.94
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T18:00:00Z",
+    "Value": 125.83
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-25T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T07:00:00Z",
+    "Value": 203.57
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T08:00:00Z",
+    "Value": 476.89
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T09:00:00Z",
+    "Value": 618.13
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T10:00:00Z",
+    "Value": 868.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T11:00:00Z",
+    "Value": 743.31
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T12:00:00Z",
+    "Value": 728.1
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T13:00:00Z",
+    "Value": 854.97
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T14:00:00Z",
+    "Value": 615.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T15:00:00Z",
+    "Value": 684.07
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T16:00:00Z",
+    "Value": 379.44
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T17:00:00Z",
+    "Value": 417.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T18:00:00Z",
+    "Value": 197.04
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-26T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T07:00:00Z",
+    "Value": 130.8
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T08:00:00Z",
+    "Value": 541.67
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T09:00:00Z",
+    "Value": 464.75
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T10:00:00Z",
+    "Value": 534.96
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T11:00:00Z",
+    "Value": 988.51
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T12:00:00Z",
+    "Value": 398.1
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T13:00:00Z",
+    "Value": 726.57
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T14:00:00Z",
+    "Value": 803.67
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T15:00:00Z",
+    "Value": 554.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T16:00:00Z",
+    "Value": 511.54
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T17:00:00Z",
+    "Value": 469.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T18:00:00Z",
+    "Value": 240.91
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-27T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T07:00:00Z",
+    "Value": 199.56
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T08:00:00Z",
+    "Value": 370.61
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T09:00:00Z",
+    "Value": 581.57
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T10:00:00Z",
+    "Value": 1099.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T11:00:00Z",
+    "Value": 576.63
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T12:00:00Z",
+    "Value": 845.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T13:00:00Z",
+    "Value": 372.27
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T14:00:00Z",
+    "Value": 1096.64
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T15:00:00Z",
+    "Value": 734.83
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T16:00:00Z",
+    "Value": 424.69
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T17:00:00Z",
+    "Value": 378.56
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T18:00:00Z",
+    "Value": 189.98
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-28T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T07:00:00Z",
+    "Value": 204.42
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T08:00:00Z",
+    "Value": 364.77
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T09:00:00Z",
+    "Value": 528.15
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T10:00:00Z",
+    "Value": 664.1
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T11:00:00Z",
+    "Value": 447.85
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T12:00:00Z",
+    "Value": 782.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T13:00:00Z",
+    "Value": 739.75
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T14:00:00Z",
+    "Value": 687.09
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T15:00:00Z",
+    "Value": 474.48
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T16:00:00Z",
+    "Value": 445.01
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T17:00:00Z",
+    "Value": 373.88
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T18:00:00Z",
+    "Value": 141.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-29T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T07:00:00Z",
+    "Value": 240.94
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T08:00:00Z",
+    "Value": 370.02
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T09:00:00Z",
+    "Value": 626.9
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T10:00:00Z",
+    "Value": 932.22
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T11:00:00Z",
+    "Value": 795.55
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T12:00:00Z",
+    "Value": 507.78
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T13:00:00Z",
+    "Value": 1029.45
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T14:00:00Z",
+    "Value": 915.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T15:00:00Z",
+    "Value": 401.27
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T16:00:00Z",
+    "Value": 611.55
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T17:00:00Z",
+    "Value": 383.42
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T18:00:00Z",
+    "Value": 130.13
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-30T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T07:00:00Z",
+    "Value": 225.95
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T08:00:00Z",
+    "Value": 297.9
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T09:00:00Z",
+    "Value": 491.44
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T10:00:00Z",
+    "Value": 721.83
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T11:00:00Z",
+    "Value": 738.05
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T12:00:00Z",
+    "Value": 1157.17
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T13:00:00Z",
+    "Value": 954.26
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T14:00:00Z",
+    "Value": 574.27
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T15:00:00Z",
+    "Value": 548.62
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T16:00:00Z",
+    "Value": 437.33
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T17:00:00Z",
+    "Value": 489.03
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T18:00:00Z",
+    "Value": 342.02
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-03-31T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T07:00:00Z",
+    "Value": 203.46
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T08:00:00Z",
+    "Value": 435.53
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T09:00:00Z",
+    "Value": 381.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T10:00:00Z",
+    "Value": 569.73
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T11:00:00Z",
+    "Value": 899.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T12:00:00Z",
+    "Value": 924.7
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T13:00:00Z",
+    "Value": 1014.6
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T14:00:00Z",
+    "Value": 502.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T15:00:00Z",
+    "Value": 564.81
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T16:00:00Z",
+    "Value": 414.03
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T17:00:00Z",
+    "Value": 389.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T18:00:00Z",
+    "Value": 226.02
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-01T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T07:00:00Z",
+    "Value": 158.36
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T08:00:00Z",
+    "Value": 393.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T09:00:00Z",
+    "Value": 591.28
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T10:00:00Z",
+    "Value": 715.88
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T11:00:00Z",
+    "Value": 675.68
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T12:00:00Z",
+    "Value": 858.54
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T13:00:00Z",
+    "Value": 422.45
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T14:00:00Z",
+    "Value": 728.48
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T15:00:00Z",
+    "Value": 622.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T16:00:00Z",
+    "Value": 511.44
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T17:00:00Z",
+    "Value": 380.51
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T18:00:00Z",
+    "Value": 203.88
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-02T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T07:00:00Z",
+    "Value": 191.24
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T08:00:00Z",
+    "Value": 501.46
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T09:00:00Z",
+    "Value": 757.57
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T10:00:00Z",
+    "Value": 872.33
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T11:00:00Z",
+    "Value": 1032.68
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T12:00:00Z",
+    "Value": 1104.46
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T13:00:00Z",
+    "Value": 1282.67
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T14:00:00Z",
+    "Value": 526.64
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T15:00:00Z",
+    "Value": 716.65
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T16:00:00Z",
+    "Value": 674.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T17:00:00Z",
+    "Value": 396.57
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T18:00:00Z",
+    "Value": 225.89
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-03T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T07:00:00Z",
+    "Value": 262.75
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T08:00:00Z",
+    "Value": 160.37
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T09:00:00Z",
+    "Value": 527.32
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T10:00:00Z",
+    "Value": 689.27
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T11:00:00Z",
+    "Value": 753.29
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T12:00:00Z",
+    "Value": 736.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T13:00:00Z",
+    "Value": 1116.77
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T14:00:00Z",
+    "Value": 476.91
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T15:00:00Z",
+    "Value": 599.95
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T16:00:00Z",
+    "Value": 480.86
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T17:00:00Z",
+    "Value": 543.26
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T18:00:00Z",
+    "Value": 192.54
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-04T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T07:00:00Z",
+    "Value": 185.24
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T08:00:00Z",
+    "Value": 405.49
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T09:00:00Z",
+    "Value": 554.54
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T10:00:00Z",
+    "Value": 616.76
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T11:00:00Z",
+    "Value": 949.51
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T12:00:00Z",
+    "Value": 896.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T13:00:00Z",
+    "Value": 672.04
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T14:00:00Z",
+    "Value": 793.19
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T15:00:00Z",
+    "Value": 831.87
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T16:00:00Z",
+    "Value": 705.19
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T17:00:00Z",
+    "Value": 500.59
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T18:00:00Z",
+    "Value": 253.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-05T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T07:00:00Z",
+    "Value": 234.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T08:00:00Z",
+    "Value": 430.38
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T09:00:00Z",
+    "Value": 417.34
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T10:00:00Z",
+    "Value": 325.27
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T11:00:00Z",
+    "Value": 1159.31
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T12:00:00Z",
+    "Value": 605.32
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T13:00:00Z",
+    "Value": 621.31
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T14:00:00Z",
+    "Value": 937.75
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T15:00:00Z",
+    "Value": 486.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T16:00:00Z",
+    "Value": 708.38
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T17:00:00Z",
+    "Value": 348.46
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T18:00:00Z",
+    "Value": 196.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-06T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T07:00:00Z",
+    "Value": 226.49
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T08:00:00Z",
+    "Value": 206.36
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T09:00:00Z",
+    "Value": 471.18
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T10:00:00Z",
+    "Value": 291.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T11:00:00Z",
+    "Value": 574.31
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T12:00:00Z",
+    "Value": 678.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T13:00:00Z",
+    "Value": 452.85
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T14:00:00Z",
+    "Value": 702.24
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T15:00:00Z",
+    "Value": 584.08
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T16:00:00Z",
+    "Value": 611.6
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T17:00:00Z",
+    "Value": 206.4
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T18:00:00Z",
+    "Value": 205.84
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-07T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T07:00:00Z",
+    "Value": 191.18
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T08:00:00Z",
+    "Value": 308.76
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T09:00:00Z",
+    "Value": 469.33
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T10:00:00Z",
+    "Value": 633.32
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T11:00:00Z",
+    "Value": 568.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T12:00:00Z",
+    "Value": 1161.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T13:00:00Z",
+    "Value": 772.57
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T14:00:00Z",
+    "Value": 885.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T15:00:00Z",
+    "Value": 527.25
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T16:00:00Z",
+    "Value": 806.06
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T17:00:00Z",
+    "Value": 411.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T18:00:00Z",
+    "Value": 186.88
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-08T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T07:00:00Z",
+    "Value": 244.31
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T08:00:00Z",
+    "Value": 305.54
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T09:00:00Z",
+    "Value": 394.84
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T10:00:00Z",
+    "Value": 701.63
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T11:00:00Z",
+    "Value": 748.27
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T12:00:00Z",
+    "Value": 896.4
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T13:00:00Z",
+    "Value": 984.75
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T14:00:00Z",
+    "Value": 702.01
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T15:00:00Z",
+    "Value": 581.32
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T16:00:00Z",
+    "Value": 539.16
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T17:00:00Z",
+    "Value": 358.72
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T18:00:00Z",
+    "Value": 142.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-09T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T07:00:00Z",
+    "Value": 248.33
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T08:00:00Z",
+    "Value": 318.99
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T09:00:00Z",
+    "Value": 614.74
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T10:00:00Z",
+    "Value": 829.51
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T11:00:00Z",
+    "Value": 816.12
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T12:00:00Z",
+    "Value": 1055.05
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T13:00:00Z",
+    "Value": 696.6
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T14:00:00Z",
+    "Value": 665.53
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T15:00:00Z",
+    "Value": 539.87
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T16:00:00Z",
+    "Value": 485.89
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T17:00:00Z",
+    "Value": 333.55
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T18:00:00Z",
+    "Value": 174.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-10T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T07:00:00Z",
+    "Value": 350.21
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T08:00:00Z",
+    "Value": 395.55
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T09:00:00Z",
+    "Value": 724.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T10:00:00Z",
+    "Value": 493.07
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T11:00:00Z",
+    "Value": 890.53
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T12:00:00Z",
+    "Value": 763.97
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T13:00:00Z",
+    "Value": 516.47
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T14:00:00Z",
+    "Value": 667.77
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T15:00:00Z",
+    "Value": 896.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T16:00:00Z",
+    "Value": 553.23
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T17:00:00Z",
+    "Value": 418.24
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T18:00:00Z",
+    "Value": 173.12
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-11T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T07:00:00Z",
+    "Value": 230.76
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T08:00:00Z",
+    "Value": 388.39
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T09:00:00Z",
+    "Value": 420.52
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T10:00:00Z",
+    "Value": 534.79
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T11:00:00Z",
+    "Value": 869.21
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T12:00:00Z",
+    "Value": 970.96
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T13:00:00Z",
+    "Value": 1260.61
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T14:00:00Z",
+    "Value": 627.91
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T15:00:00Z",
+    "Value": 663.56
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T16:00:00Z",
+    "Value": 433.86
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T17:00:00Z",
+    "Value": 420.22
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T18:00:00Z",
+    "Value": 226.78
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-12T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T07:00:00Z",
+    "Value": 230.63
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T08:00:00Z",
+    "Value": 319.25
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T09:00:00Z",
+    "Value": 470.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T10:00:00Z",
+    "Value": 522.14
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T11:00:00Z",
+    "Value": 790.41
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T12:00:00Z",
+    "Value": 594.98
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T13:00:00Z",
+    "Value": 879.29
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T14:00:00Z",
+    "Value": 772.56
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T15:00:00Z",
+    "Value": 871.61
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T16:00:00Z",
+    "Value": 456.71
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T17:00:00Z",
+    "Value": 356.49
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T18:00:00Z",
+    "Value": 211.23
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-13T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T07:00:00Z",
+    "Value": 176.91
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T08:00:00Z",
+    "Value": 372.21
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T09:00:00Z",
+    "Value": 603.09
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T10:00:00Z",
+    "Value": 1181.19
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T11:00:00Z",
+    "Value": 623.36
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T12:00:00Z",
+    "Value": 405.71
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T13:00:00Z",
+    "Value": 1197.72
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T14:00:00Z",
+    "Value": 552.31
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T15:00:00Z",
+    "Value": 820.62
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T16:00:00Z",
+    "Value": 541.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T17:00:00Z",
+    "Value": 512.81
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T18:00:00Z",
+    "Value": 203.29
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-14T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T07:00:00Z",
+    "Value": 205.84
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T08:00:00Z",
+    "Value": 317.36
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T09:00:00Z",
+    "Value": 581.63
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T10:00:00Z",
+    "Value": 693.24
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T11:00:00Z",
+    "Value": 590.46
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T12:00:00Z",
+    "Value": 481.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T13:00:00Z",
+    "Value": 1121.13
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T14:00:00Z",
+    "Value": 768.29
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T15:00:00Z",
+    "Value": 466.4
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T16:00:00Z",
+    "Value": 542.08
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T17:00:00Z",
+    "Value": 375.33
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T18:00:00Z",
+    "Value": 154.56
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-15T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T07:00:00Z",
+    "Value": 240.27
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T08:00:00Z",
+    "Value": 330.29
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T09:00:00Z",
+    "Value": 443.94
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T10:00:00Z",
+    "Value": 500.72
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T11:00:00Z",
+    "Value": 571.06
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T12:00:00Z",
+    "Value": 1180.17
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T13:00:00Z",
+    "Value": 1060.36
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T14:00:00Z",
+    "Value": 845.9
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T15:00:00Z",
+    "Value": 687.38
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T16:00:00Z",
+    "Value": 607.34
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T17:00:00Z",
+    "Value": 306.94
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T18:00:00Z",
+    "Value": 201.79
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-16T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T07:00:00Z",
+    "Value": 206.65
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T08:00:00Z",
+    "Value": 406.03
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T09:00:00Z",
+    "Value": 801.52
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T10:00:00Z",
+    "Value": 934.9
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T11:00:00Z",
+    "Value": 504.05
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T12:00:00Z",
+    "Value": 524.74
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T13:00:00Z",
+    "Value": 778.58
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T14:00:00Z",
+    "Value": 1334.76
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T15:00:00Z",
+    "Value": 570.12
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T16:00:00Z",
+    "Value": 398.7
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T17:00:00Z",
+    "Value": 472.27
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T18:00:00Z",
+    "Value": 207.44
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-17T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T07:00:00Z",
+    "Value": 173.95
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T08:00:00Z",
+    "Value": 460.83
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T09:00:00Z",
+    "Value": 574.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T10:00:00Z",
+    "Value": 567.99
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T11:00:00Z",
+    "Value": 629.05
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T12:00:00Z",
+    "Value": 697.77
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T13:00:00Z",
+    "Value": 530.95
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T14:00:00Z",
+    "Value": 589.71
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T15:00:00Z",
+    "Value": 485.27
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T16:00:00Z",
+    "Value": 485.39
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T17:00:00Z",
+    "Value": 286.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T18:00:00Z",
+    "Value": 209.76
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-18T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T07:00:00Z",
+    "Value": 239.9
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T08:00:00Z",
+    "Value": 347.62
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T09:00:00Z",
+    "Value": 778.24
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T10:00:00Z",
+    "Value": 766.98
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T11:00:00Z",
+    "Value": 665.06
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T12:00:00Z",
+    "Value": 685.93
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T13:00:00Z",
+    "Value": 1197.89
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T14:00:00Z",
+    "Value": 748.66
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T15:00:00Z",
+    "Value": 839.77
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T16:00:00Z",
+    "Value": 540.96
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T17:00:00Z",
+    "Value": 520.89
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T18:00:00Z",
+    "Value": 219.37
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-19T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T07:00:00Z",
+    "Value": 238.73
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T08:00:00Z",
+    "Value": 284.89
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T09:00:00Z",
+    "Value": 622.02
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T10:00:00Z",
+    "Value": 826.39
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T11:00:00Z",
+    "Value": 751.39
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T12:00:00Z",
+    "Value": 581.94
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T13:00:00Z",
+    "Value": 682.42
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T14:00:00Z",
+    "Value": 636.13
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T15:00:00Z",
+    "Value": 386.3
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T16:00:00Z",
+    "Value": 480.66
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T17:00:00Z",
+    "Value": 309.95
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T18:00:00Z",
+    "Value": 153.63
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-20T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T07:00:00Z",
+    "Value": 119.06
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T08:00:00Z",
+    "Value": 595.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T09:00:00Z",
+    "Value": 591.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T10:00:00Z",
+    "Value": 954.02
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T11:00:00Z",
+    "Value": 613.18
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T12:00:00Z",
+    "Value": 614.59
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T13:00:00Z",
+    "Value": 651.45
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T14:00:00Z",
+    "Value": 477.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T15:00:00Z",
+    "Value": 878.24
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T16:00:00Z",
+    "Value": 375.03
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T17:00:00Z",
+    "Value": 202.77
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T18:00:00Z",
+    "Value": 176.62
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-21T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T07:00:00Z",
+    "Value": 162.79
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T08:00:00Z",
+    "Value": 317.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T09:00:00Z",
+    "Value": 534.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T10:00:00Z",
+    "Value": 493.71
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T11:00:00Z",
+    "Value": 1271.1
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T12:00:00Z",
+    "Value": 782.86
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T13:00:00Z",
+    "Value": 639.37
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T14:00:00Z",
+    "Value": 668.31
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T15:00:00Z",
+    "Value": 371.1
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T16:00:00Z",
+    "Value": 638.84
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T17:00:00Z",
+    "Value": 380.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T18:00:00Z",
+    "Value": 280.25
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-22T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T07:00:00Z",
+    "Value": 226.39
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T08:00:00Z",
+    "Value": 267.68
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T09:00:00Z",
+    "Value": 711.78
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T10:00:00Z",
+    "Value": 829.77
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T11:00:00Z",
+    "Value": 913.42
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T12:00:00Z",
+    "Value": 881.87
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T13:00:00Z",
+    "Value": 962.01
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T14:00:00Z",
+    "Value": 756.02
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T15:00:00Z",
+    "Value": 695.52
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T16:00:00Z",
+    "Value": 510.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T17:00:00Z",
+    "Value": 510.76
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T18:00:00Z",
+    "Value": 157.79
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-23T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T07:00:00Z",
+    "Value": 233.17
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T08:00:00Z",
+    "Value": 405.43
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T09:00:00Z",
+    "Value": 736.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T10:00:00Z",
+    "Value": 615.52
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T11:00:00Z",
+    "Value": 812.52
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T12:00:00Z",
+    "Value": 1032.49
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T13:00:00Z",
+    "Value": 768.32
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T14:00:00Z",
+    "Value": 702.91
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T15:00:00Z",
+    "Value": 871.79
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T16:00:00Z",
+    "Value": 935.66
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T17:00:00Z",
+    "Value": 350.93
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T18:00:00Z",
+    "Value": 136.38
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-24T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T07:00:00Z",
+    "Value": 128.79
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T08:00:00Z",
+    "Value": 419.99
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T09:00:00Z",
+    "Value": 567.83
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T10:00:00Z",
+    "Value": 743.38
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T11:00:00Z",
+    "Value": 850.07
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T12:00:00Z",
+    "Value": 904.16
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T13:00:00Z",
+    "Value": 569.91
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T14:00:00Z",
+    "Value": 1084.73
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T15:00:00Z",
+    "Value": 721.03
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T16:00:00Z",
+    "Value": 393.35
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T17:00:00Z",
+    "Value": 390.6
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T18:00:00Z",
+    "Value": 266.19
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-25T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T07:00:00Z",
+    "Value": 204.09
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T08:00:00Z",
+    "Value": 368.28
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T09:00:00Z",
+    "Value": 504.01
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T10:00:00Z",
+    "Value": 580.75
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T11:00:00Z",
+    "Value": 565.32
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T12:00:00Z",
+    "Value": 560.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T13:00:00Z",
+    "Value": 827.95
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T14:00:00Z",
+    "Value": 982.78
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T15:00:00Z",
+    "Value": 779.83
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T16:00:00Z",
+    "Value": 546.59
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T17:00:00Z",
+    "Value": 396.83
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T18:00:00Z",
+    "Value": 135.4
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-26T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T07:00:00Z",
+    "Value": 153.78
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T08:00:00Z",
+    "Value": 402.12
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T09:00:00Z",
+    "Value": 277.86
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T10:00:00Z",
+    "Value": 568.68
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T11:00:00Z",
+    "Value": 810.92
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T12:00:00Z",
+    "Value": 571.68
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T13:00:00Z",
+    "Value": 1055.1
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T14:00:00Z",
+    "Value": 935.01
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T15:00:00Z",
+    "Value": 702.17
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T16:00:00Z",
+    "Value": 462.59
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T17:00:00Z",
+    "Value": 396.17
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T18:00:00Z",
+    "Value": 271.1
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-27T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T07:00:00Z",
+    "Value": 162.84
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T08:00:00Z",
+    "Value": 419.11
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T09:00:00Z",
+    "Value": 333.83
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T10:00:00Z",
+    "Value": 621.97
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T11:00:00Z",
+    "Value": 904.83
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T12:00:00Z",
+    "Value": 1151.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T13:00:00Z",
+    "Value": 763.86
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T14:00:00Z",
+    "Value": 553.47
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T15:00:00Z",
+    "Value": 1117.46
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T16:00:00Z",
+    "Value": 785.03
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T17:00:00Z",
+    "Value": 337.51
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T18:00:00Z",
+    "Value": 230.83
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-28T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T07:00:00Z",
+    "Value": 161.68
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T08:00:00Z",
+    "Value": 339.85
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T09:00:00Z",
+    "Value": 581.69
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T10:00:00Z",
+    "Value": 649.04
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T11:00:00Z",
+    "Value": 793.01
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T12:00:00Z",
+    "Value": 671.03
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T13:00:00Z",
+    "Value": 809.69
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T14:00:00Z",
+    "Value": 866.71
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T15:00:00Z",
+    "Value": 513.97
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T16:00:00Z",
+    "Value": 541.34
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T17:00:00Z",
+    "Value": 255.8
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T18:00:00Z",
+    "Value": 72.68
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-29T23:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T00:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T01:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T02:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T03:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T04:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T05:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T06:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T07:00:00Z",
+    "Value": 248.82
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T08:00:00Z",
+    "Value": 244.04
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T09:00:00Z",
+    "Value": 432.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T10:00:00Z",
+    "Value": 274.55
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T11:00:00Z",
+    "Value": 693.5
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T12:00:00Z",
+    "Value": 588.18
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T13:00:00Z",
+    "Value": 546.59
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T14:00:00Z",
+    "Value": 796.96
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T15:00:00Z",
+    "Value": 488.85
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T16:00:00Z",
+    "Value": 542.28
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T17:00:00Z",
+    "Value": 510.19
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T18:00:00Z",
+    "Value": 140.69
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T19:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T20:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T21:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T22:00:00Z",
+    "Value": 0.0
+  },
+  {
+    "DataSourceId": 200103,
+    "Date": "2026-04-30T23:00:00Z",
+    "Value": 0.0
+  }
+]

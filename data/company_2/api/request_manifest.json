@@ -1,0 +1,170 @@
+[
+  {
+    "method": "GET",
+    "path": "/api/Plant",
+    "params": {},
+    "file": "api/GET_api_Plant.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/Plant/{plantId}/Element",
+    "params": {
+      "plantId": 2001
+    },
+    "file": "api/plant_2001/GET_api_Plant_{plantId}_Element.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/Plant/{plantId}/Datasource",
+    "params": {
+      "plantId": 2001
+    },
+    "file": "api/plant_2001/GET_api_Plant_{plantId}_Datasource.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/DataList/v2",
+    "params": {
+      "dataSourceIds": "200101",
+      "startDate": "2026-03-01T00:00:00Z",
+      "endDate": "2026-05-01T00:00:00Z",
+      "grouping": "hour",
+      "granularity": 1,
+      "aggregationType": "sum"
+    },
+    "file": "api/plant_2001/GET_api_DataList_v2__ds_200101__sum.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/DataList/v2",
+    "params": {
+      "dataSourceIds": "200102",
+      "startDate": "2026-03-01T00:00:00Z",
+      "endDate": "2026-05-01T00:00:00Z",
+      "grouping": "hour",
+      "granularity": 1,
+      "aggregationType": "average"
+    },
+    "file": "api/plant_2001/GET_api_DataList_v2__ds_200102__average.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/DataList/v2",
+    "params": {
+      "dataSourceIds": "200103",
+      "startDate": "2026-03-01T00:00:00Z",
+      "endDate": "2026-05-01T00:00:00Z",
+      "grouping": "hour",
+      "granularity": 1,
+      "aggregationType": "average"
+    },
+    "file": "api/plant_2001/GET_api_DataList_v2__ds_200103__average.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/DataList/v2",
+    "params": {
+      "dataSourceIds": "200104",
+      "startDate": "2026-03-01T00:00:00Z",
+      "endDate": "2026-05-01T00:00:00Z",
+      "grouping": "hour",
+      "granularity": 1,
+      "aggregationType": "sum"
+    },
+    "file": "api/plant_2001/GET_api_DataList_v2__ds_200104__sum.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/DataList/v2",
+    "params": {
+      "dataSourceIds": "200105",
+      "startDate": "2026-03-01T00:00:00Z",
+      "endDate": "2026-05-01T00:00:00Z",
+      "grouping": "hour",
+      "granularity": 1,
+      "aggregationType": "average"
+    },
+    "file": "api/plant_2001/GET_api_DataList_v2__ds_200105__average.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/Plant/{plantId}/Element",
+    "params": {
+      "plantId": 2002
+    },
+    "file": "api/plant_2002/GET_api_Plant_{plantId}_Element.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/Plant/{plantId}/Datasource",
+    "params": {
+      "plantId": 2002
+    },
+    "file": "api/plant_2002/GET_api_Plant_{plantId}_Datasource.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/DataList/v2",
+    "params": {
+      "dataSourceIds": "200201",
+      "startDate": "2026-03-01T00:00:00Z",
+      "endDate": "2026-05-01T00:00:00Z",
+      "grouping": "hour",
+      "granularity": 1,
+      "aggregationType": "sum"
+    },
+    "file": "api/plant_2002/GET_api_DataList_v2__ds_200201__sum.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/DataList/v2",
+    "params": {
+      "dataSourceIds": "200202",
+      "startDate": "2026-03-01T00:00:00Z",
+      "endDate": "2026-05-01T00:00:00Z",
+      "grouping": "hour",
+      "granularity": 1,
+      "aggregationType": "average"
+    },
+    "file": "api/plant_2002/GET_api_DataList_v2__ds_200202__average.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/DataList/v2",
+    "params": {
+      "dataSourceIds": "200203",
+      "startDate": "2026-03-01T00:00:00Z",
+      "endDate": "2026-05-01T00:00:00Z",
+      "grouping": "hour",
+      "granularity": 1,
+      "aggregationType": "average"
+    },
+    "file": "api/plant_2002/GET_api_DataList_v2__ds_200203__average.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/DataList/v2",
+    "params": {
+      "dataSourceIds": "200204",
+      "startDate": "2026-03-01T00:00:00Z",
+      "endDate": "2026-05-01T00:00:00Z",
+      "grouping": "hour",
+      "granularity": 1,
+      "aggregationType": "sum"
+    },
+    "file": "api/plant_2002/GET_api_DataList_v2__ds_200204__sum.json"
+  },
+  {
+    "method": "GET",
+    "path": "/api/DataList/v2",
+    "params": {
+      "dataSourceIds": "200205",
+      "startDate": "2026-03-01T00:00:00Z",
+      "endDate": "2026-05-01T00:00:00Z",
+      "grouping": "hour",
+      "granularity": 1,
+      "aggregationType": "average"
+    },
+    "file": "api/plant_2002/GET_api_DataList_v2__ds_200205__average.json"
+  }
+]

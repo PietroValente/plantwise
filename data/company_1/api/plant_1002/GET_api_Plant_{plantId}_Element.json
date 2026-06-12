@@ -1,0 +1,26 @@
+[
+  {
+    "Identifier": 10021,
+    "UniqueID": "cd956da0-dc0e-59b3-971b-e152341b847f",
+    "Name": "TOTALIZERS",
+    "Type": 8,
+    "TypeString": "TOTALIZERS",
+    "ParentId": 1002
+  },
+  {
+    "Identifier": 10022,
+    "UniqueID": "b3473c74-c25f-5c26-85db-9009bb56a5ea",
+    "Name": "METEO",
+    "Type": 1006,
+    "TypeString": "Weather station",
+    "ParentId": 1002
+  },
+  {
+    "Identifier": 10023,
+    "UniqueID": "d39b59f4-b634-5b21-a9a3-016674ccc92f",
+    "Name": "INVERTER GROUP",
+    "Type": 1002,
+    "TypeString": "Inverter",
+    "ParentId": 1002
+  }
+]

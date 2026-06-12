@@ -1,0 +1,7 @@
+# build context is repo root for the backend image
+backend/.venv
+backend/generated_documents
+frontend
+**/__pycache__
+.git
+.env
