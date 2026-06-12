@@ -11,5 +11,7 @@ FROM nginx:alpine
 # Copied as a template: the stock entrypoint envsubsts ${BACKEND_HOST} into
 # /etc/nginx/conf.d/default.conf at startup (backend locally, *.railway.internal on Railway).
 ENV BACKEND_HOST=backend
+# Docker's embedded DNS; on Railway override with the private-network resolver (fd12::10).
+ENV NGINX_RESOLVER=127.0.0.11
 COPY frontend/nginx.conf /etc/nginx/templates/default.conf.template
 COPY --from=build /src/dist /usr/share/nginx/html
