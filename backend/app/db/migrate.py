@@ -9,8 +9,20 @@ import asyncpg
 from app.config import DATABASE_ADMIN_URL, MIGRATIONS_DIR
 
 
+async def _connect_with_retry() -> asyncpg.Connection:
+    # On platforms without compose-style healthcheck ordering (e.g. Railway)
+    # the db may still be starting when this runs.
+    for attempt in range(30):
+        try:
+            return await asyncpg.connect(DATABASE_ADMIN_URL)
+        except (OSError, asyncpg.PostgresError) as exc:
+            print(f"db not ready (attempt {attempt + 1}/30): {exc!r}", file=sys.stderr)
+            await asyncio.sleep(2)
+    return await asyncpg.connect(DATABASE_ADMIN_URL)
+
+
 async def migrate() -> None:
-    conn = await asyncpg.connect(DATABASE_ADMIN_URL)
+    conn = await _connect_with_retry()
     try:
         await conn.execute(
             """
@@ -43,5 +55,5 @@ if __name__ == "__main__":
     try:
         asyncio.run(migrate())
     except Exception as exc:  # noqa: BLE001 — entrypoint surface
-        print(f"migration failed: {exc}", file=sys.stderr)
+        print(f"migration failed: {exc!r}", file=sys.stderr)
         sys.exit(1)

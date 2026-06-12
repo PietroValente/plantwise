@@ -3,4 +3,5 @@
 set -e
 python -m app.db.migrate
 python -m app.ingestion.ingest
-exec uvicorn app.main:app --host 0.0.0.0 --port 8000
+# "::" binds IPv6 + IPv4 — Railway's private network is IPv6-only.
+exec uvicorn app.main:app --host :: --port 8000

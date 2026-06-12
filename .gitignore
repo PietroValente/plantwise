@@ -5,3 +5,9 @@ backend/.venv/
 backend/generated_documents/
 frontend/node_modules/
 frontend/dist/
+
+.railway-secrets.local.txt
+
+.railway-secrets.local.txt
+
+.railway-secrets.local.txt

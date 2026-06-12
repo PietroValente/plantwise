@@ -1,7 +1,8 @@
-# build context is repo root for the backend image
+# build context is repo root for both images (backend and frontend Dockerfiles)
 backend/.venv
 backend/generated_documents
-frontend
+frontend/node_modules
+frontend/dist
 **/__pycache__
 .git
 .env

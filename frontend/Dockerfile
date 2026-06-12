@@ -1,10 +1,15 @@
+# Build context is the REPO ROOT (same convention as backend/Dockerfile) so the
+# image builds identically locally and on Railway (RAILWAY_DOCKERFILE_PATH).
 FROM node:22-alpine AS build
 WORKDIR /src
-COPY package.json package-lock.json* ./
+COPY frontend/package.json frontend/package-lock.json* ./
 RUN npm install
-COPY . .
+COPY frontend/ .
 RUN npm run build
 
 FROM nginx:alpine
-COPY nginx.conf /etc/nginx/conf.d/default.conf
+# Copied as a template: the stock entrypoint envsubsts ${BACKEND_HOST} into
+# /etc/nginx/conf.d/default.conf at startup (backend locally, *.railway.internal on Railway).
+ENV BACKEND_HOST=backend
+COPY frontend/nginx.conf /etc/nginx/templates/default.conf.template
 COPY --from=build /src/dist /usr/share/nginx/html
