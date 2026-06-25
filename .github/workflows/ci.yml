@@ -29,15 +29,19 @@ jobs:
         run: docker compose up -d --build db backend
 
       # The entrypoint runs migrations + ingestion (~30k datapoints) before
-      # uvicorn binds, which can take a few minutes on a CI runner. Poll
-      # generously, and bail early if the container has exited.
+      # uvicorn binds, which can take a couple of minutes on a CI runner.
+      # uvicorn binds to `::` only, so the published host port isn't reliably
+      # reachable — poll the endpoint from *inside* the container instead, and
+      # bail early if the container has exited.
       - name: Wait for backend health
         run: |
           for i in $(seq 1 90); do
             if ! docker compose ps backend --status running --quiet | grep -q .; then
               echo "backend container is no longer running"; exit 1
             fi
-            if curl -fsS http://localhost:8000/api/health > /dev/null 2>&1; then
+            if docker compose exec -T backend python -c \
+                "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')" \
+                > /dev/null 2>&1; then
               echo "backend is healthy after ~$((i * 4))s"; exit 0
             fi
             sleep 4
