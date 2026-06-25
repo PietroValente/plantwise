@@ -1,0 +1,70 @@
+name: CI
+
+# Build + test on every push to main and on pull requests.
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+# Cancel superseded runs on the same ref to save CI minutes.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  backend:
+    name: Backend (smoke tests)
+    runs-on: ubuntu-latest
+    # No real secrets needed: the smoke tests run without an LLM. These are
+    # throwaway values just to satisfy compose's `${VAR:?}` guards.
+    env:
+      POSTGRES_PASSWORD: ci-postgres-pw
+      APP_DB_PASSWORD: ci-app-pw
+      SANDBOX_SECRET: ci-sandbox-secret
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build and start db + backend
+        run: docker compose up -d --build db backend
+
+      - name: Wait for backend health
+        run: |
+          for i in $(seq 1 60); do
+            if curl -fsS http://localhost:8000/api/health > /dev/null; then
+              echo "backend is healthy"; exit 0
+            fi
+            sleep 2
+          done
+          echo "backend did not become healthy in time"; exit 1
+
+      - name: Run tool smoke tests
+        run: docker compose exec -T backend python -m tests.smoke_tools
+
+      - name: Dump container logs on failure
+        if: failure()
+        run: docker compose logs --no-color
+
+      - name: Tear down
+        if: always()
+        run: docker compose down -v
+
+  frontend:
+    name: Frontend (build + typecheck)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      # `npm run build` runs `tsc -b && vite build`, so this also type-checks.
+      - name: Build
+        run: npm run build
