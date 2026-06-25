@@ -22,6 +22,9 @@ jobs:
       POSTGRES_PASSWORD: ci-postgres-pw
       APP_DB_PASSWORD: ci-app-pw
       SANDBOX_SECRET: ci-sandbox-secret
+      # The smoke tests never call the LLM, but building the agent constructs
+      # an OpenAI client that validates a key is present. A dummy value is enough.
+      OPENAI_API_KEY: sk-ci-dummy-key-not-used
     steps:
       - uses: actions/checkout@v4
 
