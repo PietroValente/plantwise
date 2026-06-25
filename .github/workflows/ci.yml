@@ -28,13 +28,19 @@ jobs:
       - name: Build and start db + backend
         run: docker compose up -d --build db backend
 
+      # The entrypoint runs migrations + ingestion (~30k datapoints) before
+      # uvicorn binds, which can take a few minutes on a CI runner. Poll
+      # generously, and bail early if the container has exited.
       - name: Wait for backend health
         run: |
-          for i in $(seq 1 60); do
-            if curl -fsS http://localhost:8000/api/health > /dev/null; then
-              echo "backend is healthy"; exit 0
+          for i in $(seq 1 90); do
+            if ! docker compose ps backend --status running --quiet | grep -q .; then
+              echo "backend container is no longer running"; exit 1
             fi
-            sleep 2
+            if curl -fsS http://localhost:8000/api/health > /dev/null 2>&1; then
+              echo "backend is healthy after ~$((i * 4))s"; exit 0
+            fi
+            sleep 4
           done
           echo "backend did not become healthy in time"; exit 1
 
